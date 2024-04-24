@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kernautomacao
+- 👀 I’m interested in product electronics and industrial automation
+- 🌱 I’m currently learning PCB Design
+- 💞️ I’m looking to collaborate with industries
+- 📫 How to reach me kernautomacao@protonmail.com
